@@ -1,2 +1,1 @@
-# Clock
-Analog clock with a current time and date below
+## A clock made using Vanilla JS.
